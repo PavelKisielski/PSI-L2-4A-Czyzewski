@@ -1,3 +1,3 @@
-  document.getElementById("changeBgBtn").addEventListener("click", () => {
-    document.body.style.backgroundImage = `url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.ceneostatic.pl%2Fdata%2Fproducts%2F23195555%2Fi-buddy-toys-samochody-budowlane-betoniarka.jpg&f=1&nofb=1&ipt=65aa991124496a5ca0ba17adee67298fa78f9967b551e15561b14715b167da6b')`;
-  });
+document.getElementById("changeBgBtn").addEventListener("click", () => {
+    document.body.style.backgroundImage = `url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2FLHzcImlcWLwAAAAj%2Fdoritos-animation.gif&f=1&nofb=1&ipt=6d7207faa9653d739cf4e7aca6673c15bd26aa472244dabf6a6549d35adb4197')`;
+});
